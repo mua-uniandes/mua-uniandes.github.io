@@ -6,4 +6,4 @@
 # Algorithms
 
 
-[Home](:::HomePage.md)
+[Home](HomePage.md)
