@@ -1,4 +1,4 @@
-# Description
+# Adjacency List
 
  In the adjacency list representation, each node x of the graph is assigned an adjacency list that consists of nodes to which there is an edge from x. Adjacency lists are the most popular way to represent graphs, and most algorithms can be efficiently implemented using them. 
  
