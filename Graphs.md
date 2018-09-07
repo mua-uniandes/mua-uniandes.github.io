@@ -36,7 +36,7 @@ A graph is **bipartite** if it is possible to color its nodes using two colors i
 --------|-------------------
 GR18-AL| [Adjacency List](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyList.md)
 GR18-AM| [Adjacency Matrix](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyMatrix.md)
-GR18-EL| [Edge List](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Actas-de-Laboratorio)
+GR18-EL| [Edge List](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/EdgeList.md)
 
 
 ## Algorithms
