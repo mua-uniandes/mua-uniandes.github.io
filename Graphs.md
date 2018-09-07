@@ -42,11 +42,11 @@ GR18-EL| [Edge List](https://github.com/mua-uniandes/mua-uniandes.github.io/blob
 ## Algorithms
  id| Type|Name
 --------|-------------------|-----------------
-GA18-DFS| Search | [Depth-First Search](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Informaci%C3%B3n-general-del-Equipo)
-GA18-BFS| Search | [Breadth-First Search](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Informaci%C3%B3n-general-del-Equipo)
-GA18-DJK| Shortest Path |[Dijkstra](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Sprint-1)
-GA18-BFD| Shortest Path |[Bellman-Ford](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Sprint-1)
-GA18-FWL| Shortest Path |[Floyd-Warshall](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Actas-de-Laboratorio)
+GA18-DFS| Search | [Depth-First Search](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
+GA18-BFS| Search | [Breadth-First Search](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/BreadthFirstSearch.md)
+GA18-DJK| Shortest Path |[Dijkstra](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/Dijkstra.md)
+GA18-BFD| Shortest Path |[Bellman-Ford](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/BellmanFord.md)
+GA18-FWL| Shortest Path |[Floyd-Warshall](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/FloydWarshall.md)
 
 
 [Home](HomePage.md)
