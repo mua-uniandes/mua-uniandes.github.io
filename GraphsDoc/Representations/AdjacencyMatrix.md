@@ -1,4 +1,4 @@
-# Description
+# Adjacency Matrix
 
 An *adjacency matrix* indicates the edges that a graph contains. We can efficiently check from an adjacency matrix if there is an edge between two nodes. The matrix can be stored as an array where each value adj[a][b] indicates whether the graph contains an edge from node a to node b. If the edge is included in the graph, then adj[a][b] = 1, and otherwise  adj[a][b] = 0.
 
