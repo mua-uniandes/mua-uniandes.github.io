@@ -34,8 +34,8 @@ A graph is **bipartite** if it is possible to color its nodes using two colors i
 ## Graph Representations
  id| Representation| 
 --------|-------------------
-GR18-AL| [Adjacency List](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Informaci%C3%B3n-general-del-Equipo)
-GR18-AM| [Adjacency Matrix](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Sprint-1)
+GR18-AL| [Adjacency List](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyList.md)
+GR18-AM| [Adjacency Matrix](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyMatrix.md)
 GR18-EL| [Edge List](https://github.com/ISIS2503/ISIS2503-201820-S1-IMAGINATORS/wiki/Actas-de-Laboratorio)
 
 
