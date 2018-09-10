@@ -17,9 +17,6 @@ to the hull. Always after adding a point to the hull, we make sure that the last
 segment in the hull does not turn left. As long as it turns left, we repeatedly remove
 the second last point from the hull.
 
-<p align="center">
-  <img width="460" height= 520" src="https://user-images.githubusercontent.com/35730663/45299161-53631600-b4d0-11e8-87ed-55880d7fd408.png">
-</p>
 
 **Divide and Conquer Algorithm:**
 Given the set of points for which we have to find the convex hull. Suppose we know the convex hull of the left half points and the right half points, then the problem now is to merge these two convex hulls and determine the convex hull for the complete set. This can be done by finding the upper and lower tangent to the right and left convex hulls.
