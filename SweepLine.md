@@ -10,7 +10,7 @@ according to their x or y coordinates.
 --------|-----------------
 SLA18-IP| [Intersection Points](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
 SL18-CPP| [Closest pair problem](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/BreadthFirstSearch.md)
-SL18-CHP| [Convex Hull problem](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/Dijkstra.md)
+SL18-CHP| [Convex Hull problem](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/SweepLineDocs/Algorithms/ConvexHull.md)
 
 
 [Home](HomePage.md)
