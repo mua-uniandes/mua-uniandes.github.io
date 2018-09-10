@@ -11,5 +11,5 @@ structure that supports sum queries, minimum queries, and several other queries.
 ## Data structures
  id| Data Structure| 
 --------|-------------------
-RQDS18-BIT| [Binary Indexed Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyList.md)
-RQDS18-ST| [Segment Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Representations/AdjacencyMatrix.md)
+RQDS18-BIT| [Binary Indexed Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/RangeQueriesDocs/DataStructures/BinaryIndexedTree.md)
+RQDS18-ST| [Segment Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/RangeQueriesDocs/DataStructures/SegmentTree.md)
