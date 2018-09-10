@@ -13,3 +13,6 @@ structure that supports sum queries, minimum queries, and several other queries.
 --------|-------------------
 RQDS18-BIT| [Binary Indexed Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/RangeQueriesDocs/DataStructures/BinaryIndexedTree.md)
 RQDS18-ST| [Segment Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/RangeQueriesDocs/DataStructures/SegmentTree.md)
+
+
+[Home](HomePage.md)
