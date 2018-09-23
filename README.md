@@ -1,12 +1,21 @@
-# Table of contents
+# Competitive Programming - Universidad de los Andes
 
- Week| Topic| 
+
+## Table of contents
+
+ ID| Topic| 
 --------|-------------------
-1| [Graphs](Graphs.md)
-2| [Range Queries in Trees](RangeQueries.md)
-3| [Sweep Line](SweepLine.md)
-4| [Scheduling](Scheduling.md)
+T1| [Algorithms](Algorithms.md)
+T2| [Graphs](Graphs.md)
+T3| [Data Structures](DataStructures.md)
+T4| [Sorting](Sorting.md)
+T5| [Dynamic Programming](DynamicProgramming.md)
+T6| [Strings](Strings.md)
+T7| [Math](Math.md)
+T8| [Geometry](Geometry.md)
 
 
 
-
+[Range Queries in Trees](RangeQueries.md)
+[Sweep Line](SweepLine.md)
+[Scheduling](Scheduling.md)
