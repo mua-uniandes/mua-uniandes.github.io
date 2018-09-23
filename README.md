@@ -15,6 +15,12 @@ T7| [Math](Math.md)
 T8| [Geometry](Geometry.md)
 
 
+## Competitions
+Start date| End date | Competition 
+--------|--------|-------------------
+T1| [Algorithms](Algorithms.md)| [Algorithms](Algorithms.md)
+
+
 
 
 
