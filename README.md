@@ -17,5 +17,5 @@ T8| [Geometry](Geometry.md)
 
 
 
-[Sweep Line](SweepLine.md)
+
 [Scheduling](Scheduling.md)
