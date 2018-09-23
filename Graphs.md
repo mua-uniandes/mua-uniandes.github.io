@@ -49,4 +49,4 @@ GA18-BFD| Shortest Path |[Bellman-Ford](https://github.com/mua-uniandes/mua-unia
 GA18-FWL| Shortest Path |[Floyd-Warshall](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/FloydWarshall.md)
 
 
-[Home](HomePage.md)
+[Home](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/README.md)
