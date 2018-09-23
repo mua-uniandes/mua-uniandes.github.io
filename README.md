@@ -16,6 +16,6 @@ T8| [Geometry](Geometry.md)
 
 
 
-[Range Queries in Trees](RangeQueries.md)
+
 [Sweep Line](SweepLine.md)
 [Scheduling](Scheduling.md)
