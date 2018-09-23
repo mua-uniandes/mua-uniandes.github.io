@@ -18,4 +18,3 @@ T8| [Geometry](Geometry.md)
 
 
 
-[Scheduling](Scheduling.md)
