@@ -15,4 +15,4 @@ RQDS18-BIT| [Binary Indexed Tree](https://github.com/mua-uniandes/mua-uniandes.g
 RQDS18-ST| [Segment Tree](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/RangeQueriesDocs/DataStructures/SegmentTree.md)
 
 
-[Home](HomePage.md)
+[Home](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/README.md)
