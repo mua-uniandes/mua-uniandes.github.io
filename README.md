@@ -1,5 +1,9 @@
 # Competitive Programming - Universidad de los Andes
 
+<p align="center">
+  <img width="250" height="80" src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/5a66482f8165f51cc1c4f9d4/1517003098570/">
+</p>
+
 
 ## Table of contents
 
