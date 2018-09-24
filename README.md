@@ -5,8 +5,8 @@
 
  ID| Topic| 
 --------|-------------------
-T1| [Algorithms](Algorithms.md)
-T2| [Graphs](Graphs.md)
+T1| [Graphs](Graphs.md)
+T2| [Algorithms](Algorithms.md) 
 T3| [Data Structures](DataStructures.md)
 T4| [Sorting](Sorting.md)
 T5| [Dynamic Programming](DynamicProgramming.md)
