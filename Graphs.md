@@ -53,7 +53,7 @@ GA18-FWL| Shortest Path |[Floyd-Warshall](https://github.com/mua-uniandes/mua-un
 ## Easy
  Problem| Description| Java solution | C++ solution | Python solution | KT solution
 --------|----------------|-----------------|--------------|--------------|--------------
-Example| Example| [Example](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
+Monk at the graph factory| [Determine if the graph is a tree](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-at-the-graph-factory/description/)| [Java Solution](https://github.com/mua-uniandes/weekly-problems/blob/master/Java/MonkAtTheGraphFactory.java)
 
 ## Medium
  Problem| Description| Java solution | C++ solution | Python solution | KT solution
