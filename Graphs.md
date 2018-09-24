@@ -49,4 +49,20 @@ GA18-BFD| Shortest Path |[Bellman-Ford](https://github.com/mua-uniandes/mua-unia
 GA18-FWL| Shortest Path |[Floyd-Warshall](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/FloydWarshall.md)
 
 
+# Problem sets
+## Easy
+ Problem| Description| Java solution | C++ solution | Python solution | KT solution
+--------|----------------|-----------------|--------------|--------------|--------------
+Example| Example| [Example](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
+
+## Medium
+ Problem| Description| Java solution | C++ solution | Python solution | KT solution
+--------|----------------|-----------------|--------------|--------------|--------------
+Example| Example| [Example](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
+## Hard
+ Problem| Description| Java solution | C++ solution | Python solution | KT solution
+--------|----------------|-----------------|--------------|--------------|--------------
+Example| Example| [Example](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/GraphsDoc/Algorithms/DepthFirstSearch.md)
+
+
 [Home](https://github.com/mua-uniandes/mua-uniandes.github.io/blob/master/README.md)
