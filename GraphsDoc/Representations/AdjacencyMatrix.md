@@ -27,3 +27,4 @@ a = new boolean[n][n];
   <img width="260" height="320" src="https://user-images.githubusercontent.com/35730663/45234509-91c3bf80-b29b-11e8-9458-6c42d6b49c3b.png">
 </p>
 
+[Java Implementation](https://github.com/mua-uniandes/weekly-problems/blob/master/Implementations/Java/Graphs-AdjacencyMatrix.java)
