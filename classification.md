@@ -10,6 +10,8 @@ La clasificación consiste en 2 rondas. Una ronda individual, dónde cada partic
 Los equipos elegidos para representar a la universidad serán aquellos que obtengan un mejor promedio grupal e individual en las competencias (teniendo en cuenta la cantidad de problemas resueltos y el tiempo de respuesta).
 
 
+## [Inscripción](https://docs.google.com/forms/d/1bsndUeOylS2KuqTezhsPc8PCoStY-envPaJbldL6nhc/edit)
+
 ### Preguntas Frecuentes
 
   1. ***Lugar y Fecha***
