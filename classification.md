@@ -1,7 +1,7 @@
 
 # Clasificación Uniandina Maratón Nacional de Programación
 
-La maratón nacional de programación organizada por ACIS/REDIS we llevará acabó el próximo 21 de septiembre. Esta competencia es el primer paso para participar en la maratón mundial de programación que se llevará acabó en el mes de Julio en Rusia.
+La maratón nacional de programación organizada por ACIS/REDIS se llevará a cabo el próximo 21 de septiembre. Esta competencia es el primer paso para participar en la maratón mundial de programación que se llevará a cabo en el mes de Julio en Rusia.
 
 La universidad tiene una cantidad limitada de cupos para participar en la competencia nacional, y debido a el creciente interés en estas competencias, MUA organizará una clasificación interna para asegurarse que los mejores equipos representarán a la universidad en las competencias nacional, regional y mundial.
 
