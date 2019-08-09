@@ -11,7 +11,7 @@ Los equipos elegidos para representar a la universidad serán aquellos que obten
 
 
 ## Inscripción
-Para inscribirse a las pruebas de clasificación hagan click [aqui](https://docs.google.com/forms/d/1bsndUeOylS2KuqTezhsPc8PCoStY-envPaJbldL6nhc/edit)
+Para inscribirse a las pruebas de clasificación haga click [aquí](https://docs.google.com/forms/d/1bsndUeOylS2KuqTezhsPc8PCoStY-envPaJbldL6nhc/edit)
 
 ### Preguntas Frecuentes
 
