@@ -9,6 +9,7 @@ MUA clasification ranking:
 <th>Rank</th>
 <th>Name</th>
 <th>Points</th>
+<th>Group Points</th>
 </tr>
 </thead>
 <tbody>
@@ -16,22 +17,46 @@ MUA clasification ranking:
 <td>1</td>
 <td>Russia T-3</td>
 <td>100</td>
+<td>110</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Chaves, Lily, diaz</td>
+<td>Chaves, Lily, Anderson</td>
 <td>60</td>
+<td>40</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Valentina, Andres, Sebastian P.</td>
 <td>21</td>
+<td>40</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Jorge, Sebastian L., Mariana</td>
 <td>20</td>
+<td>40</td>
 </tr>
+<tr>
+<td>5</td>
+<td>Vilma, Rubio, </td>
+<td>10</td>
+<td>20</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Gomez, Ramos, Daniela</td>
+<td> 2 </td>
+<td>20</td>
+</tr>
+<tr height="10"> </tr>
+<tr>
+<td>7</td>
+<td>Nicolas T,</td>
+<td> 1 </td>
+<td>10</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -140,12 +165,12 @@ MUA clasification ranking:
 </tr>
 <tr>
 <td>19</td>
-<td>Alguien 1</td>
+<td>Persona 1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>20</td>
-<td>Alguien 2</td>
+<td>Persona 2</td>
 <td>1</td>
 </tr>
 </tbody>
