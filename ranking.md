@@ -16,7 +16,7 @@ MUA clasification ranking:
 <tr>
 <td>1</td>
 <td>Russia T-3</td>
-<td>100</td>
+<td>90</td>
 <td>110</td>
 </tr>
 <tr>
